@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://L0garithmic.github.io/snippets-j9su9n/sitemap.xml
